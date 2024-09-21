@@ -1,4 +1,4 @@
-# PCLP - Tema 2 - 2048
+# PCLP1 - Tema 2 - 2048
 
 ## Cerinte rezolvate
 
